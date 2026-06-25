@@ -1,0 +1,11 @@
+<Context>
+
+  <Resource name="jdbc/connection"
+            type="javax.sql.DataSource"
+            username="root"
+            password="root"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/online_market"
+            />
+
+</Context>
